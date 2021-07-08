@@ -1,3 +1,0 @@
-# discord
-notificações para discord
-
